@@ -84,16 +84,13 @@ margin-top: 0vw;
 #category{
   background-color: #fbad18;
 }
-#container .Blitz-wheel{
- margin-top: 13.5vw;
-  margin-left: 42vw;
-  position: absolute; 
- 
-  
-}
+
 .Blitz-wheel img{
   
-  width: 8vw;
+    width: 7vw;
+    position: absolute; 
+  margin-top: 14vw;
+  margin-left:-6.8vw ;
 
   
 
